@@ -1,0 +1,13 @@
+This directory has all images used in this project
+![envelope](https://github.com/user-attachments/assets/41652040-e283-410b-82d5-50635b9185e5)
+![phone](https://github.com/user-attachments/assets/4ce9a964-a238-4a0c-b8c4-8ca9a41f8893)
+![waving-hand](https://github.com/user-attachments/assets/34d99b88-c366-4644-815e-d4e247505840)
+![html5](https://github.com/user-attachments/assets/d0baf79b-ce4f-4248-93f2-a413eb2f92e2)
+![js](https://github.com/user-attachments/assets/ea4f453f-64ad-4e06-83c7-87c5aa2a6444)
+![machine](https://github.com/user-attachments/assets/e87139fa-26ad-41b8-aed9-6d8331166b8a)
+![data](https://github.com/user-attachments/assets/ef87a209-7569-44d5-8d9a-d256e4109627)
+![webApp](https://github.com/user-attachments/assets/4d5fb8c8-4476-42ba-8d77-51702b2980ff)
+![Python](https://github.com/user-attachments/assets/730d28ea-f7cb-4dd1-91d0-44a3877cc9ea)
+![home](https://github.com/user-attachments/assets/418c6649-f2ee-48ea-89f0-8844eb3e9035)
+![home](https://github.com/user-attachments/assets/bac5cce1-4ad2-4788-84c7-723a38bab3b9)
+![bullet](https://github.com/user-attachments/assets/b65deeab-13ca-463e-a374-f2b34b4feef5)
